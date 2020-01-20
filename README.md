@@ -1,4 +1,4 @@
-# Tate Data Analyst Technical Test
+# Data Analyst Technical Test (2 of 5) 
 This is the repository containing instructions and base data for a technical test for analysts 
 
 # Set up
@@ -19,14 +19,12 @@ If you would prefer to use a different tool, please feel free.
 
 ## SQL
 
-It is possible to answer this test using SQL alone. If this is your preference, please ensure your SQL is well annotated. 
+It is possible to answer this test using SQL alone (with some added components). If this is your preference, please ensure your SQL is well annotated. 
 
 
 # Submission
 
-Please return your code and results to osman.yilmaz@tate.org.uk.  
-
-The end-date for submissions is midnight on Tuesday 22 May 2018.  
+Please return your code and results to tony@thedatashed.co.uk  
 
 Please do not return the database via email (it's quite large!)
 
@@ -55,7 +53,8 @@ If you are comfortable in more than one, please feel free to share one or more s
 * Which artist is created the most artwork by total surface area?
 * Did any artists have artwork acquired during their lifetime?
 * Please review the quality of the data, and present any issues
-* Please group the artworks into as many clusters as you feel is appropriate, using attributes from both the artist and artworks tables, and assign each artwork to this new cluster. 
+* Please group the artworks into as many clusters as you feel is appropriate, using attributes from both the artist and artworks tables, and assign each artwork to this new cluster.
+* Identify other potential areas of value within the dataset and how you went about describing and evaluating that use of data
 
 # The test submission
 
