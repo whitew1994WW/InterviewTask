@@ -3,7 +3,7 @@ This is the repository containing instructions and base data for a technical tes
 
 # Set up
 
-To help us evaluate your response to this test, we would prefer it if you responded using a Jupyter notebook. This allows you to annotate your response as required, and makes your response easier to evaluate.
+To help us evaluate your response to this test, we would prefer it if you responded using a Jupyter notebook. This allows you to annotate your response as required, and makes your response easier to evaluate. However, if you think a complementary PowerPoint/Excel workbook would help communicate your results, please feel free to use other presentation methods in addition.
 
 ## Python
 If you haven't used Jupyter before, here's how to get yourself set up:
