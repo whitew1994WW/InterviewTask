@@ -24,7 +24,7 @@ It is possible to answer this test using SQL alone (with some added components).
 
 # Submission
 
-Please return your code and results to tony@thedatashed.co.uk  
+Please return your code and results to talent@thedatashed.co.uk  
 
 Please do not return the database via email (it's quite large!)
 
