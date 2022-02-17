@@ -46,7 +46,9 @@ We have provided an example Python notebook showing how to connect to, and how t
 
 We'd like you to answer the following questions, using the language of your choice (Python, SQL or R)
 
-If you are comfortable in more than one, please feel free to share one or more solutions in a different language. Please provide a narrative for your answers:
+If you are comfortable in more than one, please feel free to share one or more solutions in a different language. 
+
+Answer the questions below, providing a narrative and working assumptions:
 
 * Please review the quality of the data, and present any issues
 * Which artist in this data set lived the longest?
