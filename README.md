@@ -46,13 +46,13 @@ We have provided an example Python notebook showing how to connect to, and how t
 
 We'd like you to answer the following questions, using the language of your choice (Python, SQL or R)
 
-If you are comfortable in more than one, please feel free to share one or more solutions in a different language. 
+If you are comfortable in more than one, please feel free to share one or more solutions in a different language. Please provide a narrative for your answers:
 
+* Please review the quality of the data, and present any issues
 * Which artist in this data set lived the longest?
 * Who are the top 10 artists by the number of artworks?
 * Which artist is created the most artwork by total surface area?
 * Did any artists have artwork acquired during their lifetime?
-* Please review the quality of the data, and present any issues
 * Please group the artworks into as many clusters as you feel is appropriate, using attributes from both the artist and artworks tables, and assign each artwork to this new cluster.
 * Identify other potential areas of value within the dataset and how you went about describing and evaluating that use of data
 
